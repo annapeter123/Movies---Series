@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Inside out 2",
+        "img": "https://m.media-amazon.com/images/M/MV5BYTc1MDQ3NjAtOWEzMi00YzE1LWI2OWUtNjQ0OWJkMzI3MDhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "table": {
+            "releasedate": "June 14, 2024",
+            "directedby": "Kelsey Mann",
+            "producedby": "Mark Nielsen",
+            "storyby": "Kelsey Mann, Meg LeFauve",
+            "actors": "Amy Poehler, Maya Hawke, Kensington Tallman, Liza Lapira, Tony Hale, Lewis Black, Phyllis Smith, Ayo Edebiri, Lilimar, Grace Lu, Sumayyah Nuriddin-Green, Adèle Exarchopoulos, Diane Lane, Kyle MacLachlan, Paul Walter Hauser"
+        },
+        "description": "Inside Out 2 is a 2024 American animated coming-of-age film produced by Pixar Animation Studios for Walt Disney Pictures. The sequel to Inside Out (2015), it was directed by Kelsey Mann (in his feature directorial debut) and produced by Mark Nielsen, from a screenplay written by Meg LeFauve and Dave Holstein, and a story conceived by Mann and LeFauve. Amy Poehler, Phyllis Smith, Lewis Black, Diane Lane, and Kyle MacLachlan reprise their roles from the first film, with Maya Hawke, Kensington Tallman, Liza Lapira (replacing Mindy Kaling), Tony Hale (replacing Bill Hader), Ayo Edebiri, Lilimar, Grace Lu, Sumayyah Nuriddin-Green, Adèle Exarchopoulos, and Paul Walter Hauser joining the cast. The film tells the story of Riley's emotions as they find themselves joined by new emotions that want to take over Riley's head.",
+        "iframe": "https://www.youtube.com/embed/LEjhY15eCx0?si=p8SRxaBVpoBZm__R"
+    },
+    {
+        "name": "Minions",
+        "img": "https://m.media-amazon.com/images/M/MV5BMTUwNjcxNzAwOF5BMl5BanBnXkFtZTgwNzEzMzIzNDE@._V1_.jpg"
+    },
+    {
+        "name": "Garfield",
+        "img": "https://m.media-amazon.com/images/M/MV5BMzMwNDMzODktM2FjMC00YzcwLTgxNjgtMjViN2RlMmUyODJmXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_.jpg"
+    },
+    {
+        "name": "Despicable Me 4",
+        "img": "https://m.media-amazon.com/images/M/MV5BOTk4MjFhZTMtOWIxOS00YzE2LThkZGEtMzg0MDAyMmFiZmU1XkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_QL75_UX190_CR0,2,190,281_.jpg"
+    },
+    {
+        "name": "Kung Fu Panda 4",
+        "img": "https://m.media-amazon.com/images/M/MV5BZDY0YzI0OTctYjVhYy00MTVhLWE0NTgtYTRmYTBmOTE3YTViXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+        "table": {
+            "releasedate": "08 March 2024",
+            "directedby": "Mike Mitchell",
+            "producedby": "Rebecca Huntley",
+            "storyby": "Jonathan Aibel,Glenn Berger,Darren Lemke",
+            "actors": "Jack Black,Awkwafina,Bryan Cranston,James Hong,Ian McShane,Ke Huy Quan,Dustin Hoffman,Viola Davis"
+        },
+        "description": "Kung Fu Panda 4 is a 2024 American animated martial arts comedy film produced by DreamWorks Animation and distributed by Universal Pictures. It is the fourth installment in the Kung Fu Panda franchise and the sequel to Kung Fu Panda 3 (2016). The film was directed by Mike Mitchell, (who was also the film's executive producer), co-directed by Stephanie Ma Stine (in her feature directorial debut), written by Darren Lemke and the writing team of Jonathan Aibel and Glenn Berger, and produced by Rebecca Huntley. It features Jack Black, Dustin Hoffman, Ian McShane, James Hong, and Bryan Cranston reprising their roles from the previous films, with Awkwafina, Ke Huy Quan, Ronny Chieng, Lori Tan Chinn, and Viola Davis joining the cast as new characters. In the film, Po (Black), who must find and train his successor as the new Dragon Warrior, teams up with fox bandit Zhen (Awkwafina) to defeat evil sorceress The Chameleon (Davis), before she steals the kung-fu abilities of all masters in China.",
+        "iframe": "https://www.youtube.com/embed/_inKs4eeHiI?si=3JPOB_wLtIlUZZP3"
+    }
+]
